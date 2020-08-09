@@ -1,4 +1,5 @@
 let greet = require("../greet");
+let assert = require("assert");
 
 describe('The greet function', function(){
 

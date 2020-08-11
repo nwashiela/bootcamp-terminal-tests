@@ -11,5 +11,8 @@ describe('The transportFee function', function(){
     
         assert.deepEqual("R10", transportFee('afternoon'));
     });
+    it("should return free for afternoon", function() {
     
+        assert.deepEqual("free", transportFee('nightshift'));
+    });
   });

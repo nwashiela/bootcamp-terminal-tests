@@ -1,0 +1,25 @@
+{
+  "name": "bootcamp-terminal-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "IsWeekday.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nwashiela/bootcamp-terminal-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nwashiela/bootcamp-terminal-tests/issues"
+  },
+  "homepage": "https://github.com/nwashiela/bootcamp-terminal-tests#readme",
+  "devDependencies": {
+    "mocha": "^8.1.1"
+  }
+}
